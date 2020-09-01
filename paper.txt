@@ -1,0 +1,11 @@
+Cajas de la Plataforma
+
+1 - frente de talud (subdividir en cajas latitudinales)
+2 - frente de Valdes - Pto Madryn [Acha 2004, Rivas 2010]
+3 - zonas donde la bomba física de CO2 domina sobre la bomba biológica en la
+plataforma [Bianchi 2005, Kahl tesis]
+4 - zonas de interacción con el estrecho [Karen 2020]
+    4.a - Zona de influencia de la pluma de Magallanes (elegir algún criterio con isobatas)
+    4.b - La zona que no es la pluma y está al este.
+5 - Plataforma norte [Lucas 2005]
+6 - Intrusiones de Malvinas en f(x) del tiempo a lo largo del talud [Piola 2010]
